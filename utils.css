@@ -1,0 +1,35 @@
+.centre{
+    padding: 0 0 0 30px;
+}
+/* .bgred{
+    background: red;
+} */
+.mxauto{
+    margin: auto;
+}
+.mw20{
+    max-width: 30vw;
+}
+.flex{
+    display: flex;
+}
+.flexcol{
+    flex-direction: column;
+}
+.item{
+    align-items: center;
+}
+h2{
+    background-color: black;
+    width: 3cm;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+h3{
+    margin-left: 15px;
+    padding-top: 10px;
+}
+.lk{
+    display: flex;
+
+}
